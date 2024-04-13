@@ -1,2 +1,2 @@
 # netflix-clone
-# this program uses html javascript and css
+# this project is made by using html css
